@@ -1,0 +1,6 @@
+[submodule "Assets/UniversalToonPBR"]
+	path = Assets/UniversalToonPBR
+	url = https://github.com/Dasfaust/UniversalToonPBR.git
+[submodule "Assets/PixelEngine"]
+	path = Assets/PixelEngine
+	url = https://github.com/Dasfaust/PixelEngine.git
